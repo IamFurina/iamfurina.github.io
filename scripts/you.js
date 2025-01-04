@@ -77,7 +77,7 @@ window.onload = function () {
 	return true;
 }
 
-window.click = function () {
+window.onclick = function () {
 	proCreate();
 
 	return null;
