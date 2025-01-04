@@ -77,7 +77,7 @@ window.onload = function () {
 	return true;
 }
 
-window.onmouseout = function () {
+window.click = function () {
 	proCreate();
 
 	return null;
